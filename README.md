@@ -5,7 +5,7 @@ Android app for Jummah Masjid Halal Council auditors.
 ## Install on a tablet
 1. On the tablet, open **[the latest release](https://github.com/RayhaanAlHasan/hca-releases/releases/latest)** and tap the file ending in **.apk**.
 2. When Android asks, allow your browser to **install unknown apps**, then tap **Install**.
-3. Open **Halal Compliance Audit** and allow notifications.
+3. Open **Halal Compliance Audit** and go through the onboarding process.
 
 ## Updates
 The app updates itself. Small updates arrive silently and apply the next time the app is opened;
